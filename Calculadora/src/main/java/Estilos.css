@@ -34,7 +34,7 @@ button{
     word-break: break-word;
 }
 
-.input{
+#input{
     color: black;
     font-size: 1.80rem;
     text-align: right;
